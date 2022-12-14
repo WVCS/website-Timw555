@@ -1,0 +1,40 @@
+body{
+    background-image: url("https://www.thefamouspeople.com/profiles/images/dwayne-johnson-12.jpg");
+}
+h2{
+  color:white;
+    font-size:500%;
+  letter-spacing: 6px;
+  text-decoration:underline
+}
+p{
+  color: white;
+  font-size: 400%;
+}
+img{
+  border:dashed white 30px;
+  width:50%;
+}
+iframe{
+  border: dashed white 30px
+}
+ul{
+  list-style-type: none;
+  text-align: center;
+  position:fixed;
+  width:100%:
+}
+li{
+  float:left;
+}
+li a{
+  padding:50px;
+  font-family: "Papyrus", Fantasy;
+  border-style: dotted;
+  color: white;
+  text-decoration-line: none;
+}
+li a:hover{
+  background-color:pink;
+  color:blue;
+}

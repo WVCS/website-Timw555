@@ -1,5 +1,5 @@
 body{
-    background-image: url("https://w0.peakpx.com/wallpaper/538/630/HD-wallpaper-dwayne-johnson-the-rock-american-actor-american-wrestler-portrait-creative-art-gray-stone-background.jpg");
+    background-image: url("https://www.thefamouspeople.com/profiles/images/dwayne-johnson-12.jpg");
 }
 h2{
   color:white;
@@ -33,11 +33,6 @@ li a{
   border-style: dotted;
   color: white;
   text-decoration-line: none;
-}
-li a:hover{
-  background-color:pink;
-  color:blue;
-}
 }
 li a:hover{
   background-color:pink;
